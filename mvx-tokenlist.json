@@ -9,7 +9,7 @@
   "tokens": [
     {
       "chainId": 137,
-      "address": "ВСТАВЬ_СЮДА_АДРЕС_ТВОЕГО_MVX",
+      "address": "0xda5EaBd1b663249d8E269e7f2bB99CF47eb9FA4d",
       "name": "Metavault Trade",
       "symbol": "MVX",
       "decimals": 18,
