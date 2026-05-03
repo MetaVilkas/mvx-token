@@ -1,0 +1,14 @@
+{
+  "name": "Meta Vilkas Token List",
+  "logoURI": "http://www.metavilkas.lt/wp-content/uploads/2026/05/TOKEN-LOGO.png",
+  "tokens": [
+    {
+      "name": "Metavault Trade",
+      "symbol": "MVX",
+      "address": "0xda5EaBd1b663249d8E269e7f2bB99CF47eb9FA4d",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "http://www.metavilkas.lt/wp-content/uploads/2026/05/TOKEN-LOGO.png"
+    }
+  ]
+}
